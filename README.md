@@ -1,5 +1,7 @@
 ## false
 
+[![Build Status](https://travis-ci.org/mde/false.png)](https://travis-ci.org/mde/false)
+
 A JavaScript port of the Unix utility 'false'. Returns the Boolean value `false`
 
 ### Overview
