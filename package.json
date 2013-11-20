@@ -1,7 +1,7 @@
 {
   "name": "false",
   "version": "0.0.2",
-  "description": "Returns the Boolean value `false`",
+  "description": "A JavaScript port of the Unix utility 'false'. Returns the Boolean value `false`",
   "main": "index.js",
   "scripts": {
     "test": "jake test"
