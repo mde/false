@@ -19,10 +19,10 @@ Simply require the `false` module. The export is a function which returns the
 Boolean value `false`:
 
 ```javascript
-  var t = require('./false')
-    , myFalseValue = t();
+  var f = require('./false')
+    , myFalseValue = f();
 
-console.log(myFalseValue === false); // Logs 'false'
+console.log(myFalseValue === false); // Logs 'true'
 ```
 
 ### Tests
