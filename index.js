@@ -1,4 +1,2 @@
 
-module.exports = function () {
-  return false;
-};
+module.exports = () => false;
