@@ -3,6 +3,9 @@
   "version": "0.0.4",
   "description": "A JavaScript port of the Unix utility 'false'. Returns the Boolean value `false`",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "jake test"
   },
