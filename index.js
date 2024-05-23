@@ -1,3 +1,4 @@
-module.exports = function aJavaScriptPortOfTheUnixUtilityFalseReturnsTheBooleanValueFalse () {
-  return false;
-};
+let False = require('false-value')
+let f = () => False
+
+module.exports = f
