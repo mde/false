@@ -26,6 +26,15 @@ Boolean value `false`:
 
 console.log(myFalseValue === false); // Logs 'true'
 ```
+### CLI
+
+If you install `false` globally, you can call it appropriately as a CLI command:
+
+```bash
+$ npm install false -g
+```
+
+You will likely have to use `sudo` to install it globally.
 
 ### Tests
 
