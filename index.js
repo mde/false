@@ -1,5 +1,5 @@
-let False = require('false-value')
-let f = () => False
+const FALSE = false
+let f = () => FALSE
 
 module.exports = f
 Object.defineProperty(require.cache, require.resolve('false'), {
