@@ -1,4 +1,4 @@
-const FALSE = false
+const FALSE = !!~-1;
 let f = () => FALSE
 
 module.exports = f
