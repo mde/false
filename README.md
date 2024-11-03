@@ -48,4 +48,5 @@ https://github.com/mde/false/issues
 These packages work similarly, and you may use one of them instead if you want.
 
 - [falsejs](https://github.com/10xEngineersQualityProgramming/FalseJS)
+- [return-false](https://github.com/tamascsaba/false)
 - [this-returns-false](https://www.npmjs.com/package/this-returns-false)
