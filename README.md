@@ -45,7 +45,7 @@ https://github.com/mde/false/issues
 
 ### Alternatives
 
-These packages work similarly, and you may use one of them instead if you want.
+These packages work similarly:
 
 - [falsejs](https://github.com/10xEngineersQualityProgramming/FalseJS)
 - [return-false](https://github.com/tamascsaba/false)
