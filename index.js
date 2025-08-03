@@ -1,3 +1,3 @@
 module.exports = function aJavaScriptPortOfTheUnixUtilityFalseReturnsTheBooleanValueFalse () {
-  return false;
+  return !1;
 };
